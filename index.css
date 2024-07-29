@@ -1,0 +1,73 @@
+
+
+body {
+    margin: 0;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #1B244A;
+    width: 575px;
+    height: 385px;
+    top: -1135px;
+    left: -1996px;
+}
+
+
+button {
+
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px;
+    background-color: transparent ;
+    border: 2px solid #9AABD8;
+    color: #9AABD8;
+    text-shadow: none;
+    box-shadow: none;
+    opacity: 1; /* Set opacity */
+    margin: 3px;
+ 
+}
+
+h3{
+    color: #ffffff;
+    font-size: 30px;
+}
+
+h1{
+    color: #F94F6D;
+    font-size: 50px;
+    background-color:black;
+    height: 120px;
+    width: 155px;
+    left: 82px;
+    top: 125px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 2px solid #F94F6D;
+}
+
+#resetBtn{
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    width: auto;
+    border-radius: 5px;
+    background-color: transparent ;
+    border: 2px solid #9AABD8;
+    color: #9AABD8;
+    text-shadow: none;
+    box-shadow: none;
+    opacity: 1; /* Set opacity */
+    margin: 3px;
+}
